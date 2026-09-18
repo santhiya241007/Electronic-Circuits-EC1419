@@ -8,9 +8,16 @@
 
 
 ## tinker cad circuit diagram
+<img width="888" height="1280" alt="image" src="https://github.com/user-attachments/assets/c8274d8c-084b-4c4c-8ef0-035a38e1a184" />
+
 
 ## ripple factor calculation
+<img width="1080" height="762" alt="image" src="https://github.com/user-attachments/assets/ccbf1f85-38f5-4b60-9b97-ab995cf8ea74" />
+
 
 ## output graph
+<img width="949" height="1280" alt="image" src="https://github.com/user-attachments/assets/2fac6539-1c38-4fbd-b61a-b9cb7e356189" />
+<img width="842" height="1250" alt="image" src="https://github.com/user-attachments/assets/462c6068-b8df-4d61-b5f8-428cc0fa92f5" />
 
 ## result
+<img width="1280" height="998" alt="image" src="https://github.com/user-attachments/assets/f38b5990-ec1f-4ee4-be36-72a684229e9e" />
