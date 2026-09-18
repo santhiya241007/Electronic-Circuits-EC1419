@@ -9,7 +9,12 @@
 
 
 ## Kicad circuit diagram
+<img width="1080" height="728" alt="image" src="https://github.com/user-attachments/assets/a823521f-8a60-4595-8b7b-2a6537f75062" />
+
 
 ## output waveform
+<img width="751" height="1280" alt="image" src="https://github.com/user-attachments/assets/110a2ec7-c2f8-4cc0-9259-43104f923dd4" />
+
 
 ## result
+<img width="1080" height="646" alt="image" src="https://github.com/user-attachments/assets/305b5748-8a70-4f57-9b03-3ed6bc0607d0" />
